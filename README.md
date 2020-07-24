@@ -8,6 +8,7 @@ I am Anshuman Chhapolia. Full-Stack Developer and Co-Founder at [SmokeTrees](htt
 [![twitter](http://img.shields.io/static/v1?logo=twitter&label=&message=silent_c0der&color=black&style=flat-square)](https://twitter.com/silent_c0der)
 [![telegram](http://img.shields.io/static/v1?logo=telegram&label=&message=silent_c0der&color=black&style=flat-square)](https://t.me/silent_c0der)
 [![instagram](http://img.shields.io/static/v1?logo=instagram&label=&message=silent_c0der&color=black&style=flat-square)](https://instagram.com/silent_c0der)
+[![linkedin](http://img.shields.io/static/v1?logo=linkedin&label=&message=achhapolia10&color=black&style=flat-square)](https://linkedin.com/in/achhapolia10)
 
 ### Things I am good at
 
