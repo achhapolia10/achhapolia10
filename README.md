@@ -16,7 +16,6 @@ I am Anshuman Chhapolia. Full-Stack Developer and Co-Founder at [SmokeTrees](htt
 ![golang](http://img.shields.io/static/v1?logo=go&label=&message=Golang&style=flat-square&color=black)
 ![python](http://img.shields.io/static/v1?logo=python&label=&message=Python&style=flat-square&color=yellow)
 ![java](http://img.shields.io/static/v1?logo=java&label=&message=Java&style=flat-square&color=red)
-![golang](http://img.shields.io/static/v1?logo=go&label=&message=Golang&style=flat-square&color=purple)
 
 ### Things I am learning
 
